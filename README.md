@@ -1,4 +1,4 @@
-# Packet-Tracer-point-to-point
+# Point-to-Point
 # Contextualization
 I connected two PCs (they have IPs) with Crossover cable.
 # Devices:
