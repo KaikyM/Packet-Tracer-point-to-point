@@ -7,5 +7,5 @@ I connected two PCs (they have IPs) with Crossover cable.
 # Schematic Project
 ![image](https://github.com/KaikyM/Packet-Tracer-point-to-point/assets/127446435/fa606e12-5dde-4698-9133-1319794bc8c2)
 <link rel="stylesheet" type="text/css" href="estilo.css">
-- [Download This Packet Tracer Project Here](Point-to-point.pkt){: .btn .btn-download}
+- [Download This Packet Tracer Project Here](Point-to-point.pkt)
 - I used Cisco Packet Tracer: https://www.netacad.com/courses/packet-tracer
