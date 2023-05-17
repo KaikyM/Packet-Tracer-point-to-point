@@ -1,0 +1,11 @@
+<style>
+.btn-download {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 4px;
+  border: none;
+}
+</style>
